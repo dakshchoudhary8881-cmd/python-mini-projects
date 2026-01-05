@@ -1,3 +1,8 @@
+'''
+only enter the valid_card to run the program 
+
+'''
+
 valid_card = "1234567890"   # sample ATM card number
 balance = 10000              # initial balance
 
@@ -44,4 +49,4 @@ if card == valid_card:
             print("Invalid choice. Please select 1 to 4.")
 
 else:
-    print("Invalid card number. Access denied.")
+    print("Invalid card number. Access denied. ")
