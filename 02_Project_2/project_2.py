@@ -11,10 +11,13 @@ hour = int(time.strftime("%H"))
 
 if(hour > 4 and hour < 12):
     print("Good Morning Daksh")
+
 elif(hour > 12 and hour < 17 ):
     print("Good Afternoon Daksh")
+
 elif(hour >= 17 and hour < 21):
     print("Good Evening Daksh")
+    
 else:
     print("Good Night Daksh")
 
