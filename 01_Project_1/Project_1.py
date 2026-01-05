@@ -15,3 +15,4 @@ if number2 != 0:
     print("Division:", number1, "/", number2, "=", number1 / number2)
 else:
     print("Division is not possible (division by zero)")
+
