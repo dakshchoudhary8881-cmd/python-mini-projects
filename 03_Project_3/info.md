@@ -4,7 +4,6 @@ This is a beginner-friendly Python project that simulates a basic ATM system usi
 
 ---
 
-
 ## 📌 Features
 
 - Check account balance
