@@ -55,7 +55,6 @@ No advanced Python concepts are used.
 ```bash
 python password_strength_checker.py
 
-
 ## 🧪 Example Output
 
 Enter your password: hello123
