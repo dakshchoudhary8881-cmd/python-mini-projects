@@ -51,12 +51,3 @@ No advanced Python concepts are used.
 1. Make sure Python is installed on your system
 2. Open terminal or command prompt
 3. Run the file using:
-
-```bash
-python password_strength_checker.py
-
-## 🧪 Example Output
-
-Enter your password: hello123
-Password Strength: Strong
-Good job! Your password is strong
