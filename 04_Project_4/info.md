@@ -42,7 +42,7 @@ No advanced Python concepts are used.
    - Password length
    - Presence of letters
    - Presence of digits
-3. Based on these checks, the program prints the password strength
+3. Based on these checks, the program prints the password strength.
 
 ---
 
