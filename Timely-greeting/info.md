@@ -2,7 +2,7 @@
 
 This is what people normally follow in daily life.
 
-📌 Practical breakdown (India context
+📌 Practical breakdown (India context)
 
 Time What people usually say
 
@@ -14,7 +14,7 @@ Time What people usually say
 
 9:00 PM – 3:59 AM Good Night 🌙
 
-🧠 Cultural note (important
+🧠 Cultural note (important)
 
 In India, many people start saying Good Morning after sunrise
 
